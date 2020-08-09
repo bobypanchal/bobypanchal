@@ -3,7 +3,7 @@
 I'm Software Developer, who loves building Web Applications.
 
 
-## Expertise:
+## Expertise
 
 * Web Application Development [Spring | Hibernate]
 * Project Management
@@ -15,7 +15,7 @@ I'm Software Developer, who loves building Web Applications.
 |:---:|:---:|:---:|
 
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 |<a href="https://www.linkedin.com/in/bobypanchal/"><img align="center" alt="Boby Panchal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/bobypanchal"><img align="center" alt="Boby Panchal's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|<a href="https://www.hackerrank.com/bobypanchal?hr_r=1"><img align="center" alt="Boby Panchal's HackerRank" src="https://img.icons8.com/windows/50/000000/hackerrank.png"/></a>|
 |:---:|:---:|:---:|
