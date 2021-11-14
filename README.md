@@ -5,19 +5,19 @@ I'm Software Developer, who loves building Web Applications.
 
 ## Expertise
 
-* Web Application Development [Spring | Hibernate]
+* Web Application Development [Spring Boot | Hibernate | Zk Framework | MyBatis | Angular | React JS]
 * Project Management
 * Agile Development
 
 ## :rocket: Programming Languages
 
-|<img align="center" alt="Java Icon" src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/>|<img align="center" alt="React Native Icon" src="https://img.icons8.com/dusk/50/000000/python.png"/>|<img align="center" alt="Java Icon" src="https://img.icons8.com/dusk/50/000000/php-logo.png"/>|
+|<img align="center" alt="Java Icon" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/>|<img align="center" alt="Angular" src="https://img.icons8.com/color/48/000000/angularjs.png"/>|<img align="center" alt="ReactJs" src="https://img.icons8.com/office/50/000000/react.png"/>|
 |:---:|:---:|:---:|
 
 
 ## 📫 How to reach me
 
-|<a href="https://www.linkedin.com/in/bobypanchal/"><img align="center" alt="Boby Panchal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/bobypanchal"><img align="center" alt="Boby Panchal's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|<a href="https://www.hackerrank.com/bobypanchal?hr_r=1"><img align="center" alt="Boby Panchal's HackerRank" src="https://img.icons8.com/windows/50/000000/hackerrank.png"/></a>|
+|<a href="https://www.linkedin.com/in/bobypanchal/"><img alt="LinkedIn" src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>|<a href="https://github.com/bobypanchal"><img align="center" alt="GitHub" src="https://img.icons8.com/nolan/50/github.png"/></a>|<a href="https://www.hackerrank.com/bobypanchal?hr_r=1"><img align="center" alt="HackerRank" src="https://img.icons8.com/windows/50/00eb64/hackerrank.png"/></a>|
 |:---:|:---:|:---:|
 
 
