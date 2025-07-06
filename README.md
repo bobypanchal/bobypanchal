@@ -1,21 +1,3 @@
-<a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/bobypanchal/bobypanchal?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/bobypanchal?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/milanpanchal?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/bobypanchal?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://gist.github.com/milanpanchal">
-    <img src="https://badges.pufler.dev/gists/bobypanchal?style=flat-square&color=blue&logo=github">
-  </a>
-    <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/bobypanchal?style=flat-square&color=blue&logo=github">
-  </a>
-
-****
-
 ### Hi, I'm [Boby Panchal](https://bobypanchal.github.io) 👋
 
 I'm a Software Developer with 4+ years of experience in building scalable and efficient applications. I specialize in developing enterprise solutions, optimizing system performance, and integrating advanced technologies.
